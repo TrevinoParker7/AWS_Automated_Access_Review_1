@@ -1,4 +1,4 @@
-[![Tests](https://github.com/ajy0127/aws_automated_access_review/actions/workflows/tests.yml/badge.svg)](https://github.com/ajy0127/aws_automated_access_review/actions/workflows/tests.yml)
+[![Tests](https://github.com/000/aws_automated_access_review/actions/workflows/tests.yml/badge.svg)](https://github.com/000/aws_automated_access_review/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![CFN Lint](https://img.shields.io/badge/CFN-Lint-blue.svg)](https://github.com/aws-cloudformation/cfn-lint)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
@@ -33,7 +33,7 @@ Unlike complex security dashboards that require constant monitoring, AWS Access 
 
 With single-click deployment and integration with native AWS services, you can start receiving detailed security reports in minutes without extensive setup or third-party dependencies.
 
-This tool is part of a larger initiative to empower GRC professionals in showcasing their practical AWS GRC engineering implementation skills. Visit the [GRC Portfolio Hub](https://github.com/ajy0127/grc_portfolio/tree/main) for more resources and projects focused on governance, risk, and compliance expertise development.
+This tool is part of a larger initiative to empower GRC professionals in showcasing their practical AWS GRC engineering implementation skills. Visit the [GRC Portfolio Hub](https://github.com/000/grc_portfolio/tree/main) for more resources and projects focused on governance, risk, and compliance expertise development.
 
 ### Compliance Use Case: SOC 2 Type 2 Audits
 
@@ -84,7 +84,7 @@ Perfect for GRC professionals managing SOC 2 Type 2 and similar compliance frame
 
 1. Clone this repository:
    ```
-   git clone https://github.com/ajy0127/aws_automated_access_review.git
+   git clone https://github.com/000/aws_automated_access_review.git
    cd aws_automated_access_review
    ```
 
