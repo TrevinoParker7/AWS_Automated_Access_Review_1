@@ -291,14 +291,4 @@ The deployment process is handled by `scripts/deploy.sh`, which:
 - **Lambda function timeout**: The default timeout is 5 minutes. If your AWS environment is large, you might need to increase this by modifying the CloudFormation template.
 - **Memory issues**: If you see out-of-memory errors, increase the Lambda function memory in the CloudFormation template.
 
-## Contributing
 
-We welcome contributions to improve AWS Access Review! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Version
-
-Current version: See the [VERSION](VERSION) file.
